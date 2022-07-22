@@ -1,0 +1,45 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.Navbar {
+    background-color: #282c34;
+    color: silver;
+    display: block;
+    height: 100px;
+}
+
+.Navbar h1{
+    text-transform: uppercase;
+    float: left;
+    margin: 0;
+    font-size: 3rem;
+    font-family: 'Acme', sans-serif;
+}
+
+.btnDerecha{
+    display: inline;
+    margin: 0.6em auto;
+    text-align: center;
+    float: right;
+}
+
+button{
+    display: inline;
+    right: 0;
+    width: 100px;
+    height: 51px;
+    border-radius: 50px;
+    margin: 20px;
+    font-size: 17px;
+}
+
+button:hover{
+    display: inline;
+    width: 100px;
+    height: 51px;
+    border-radius: 50px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}

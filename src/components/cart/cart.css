@@ -1,0 +1,17 @@
+.cart{
+    display: inline;
+    width: 100px;
+    float: left;
+}
+
+img{
+    width: 50px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+p{
+    font-size: 2.5rem;
+    float: right;
+    margin-top: 15px;
+}
